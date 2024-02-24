@@ -293,3 +293,10 @@ footer{
     justify-content: space-between;
     gap: 5px;
 }
+.phone2{
+    display: flex;
+    justify-content: space-around;
+}
+.phone2>div{
+    white-space: pre;
+}
